@@ -2,12 +2,14 @@
 Itinerary Manager - University Project
 ''''
 ----------------------------------------
+Scenario
+------------------------------------------------------------------------------
 Exciting Activities Ltd is a company that specialises in organising interesting
 activities for individual and corporate clients. They want a system to manage these
 activities and the attendees more effectively, in particular for calculating the cost.
 You are required to design and build a prototype Java application for their activity
 planner.
-----------------------------------------------------------------------------------
+
 There are various kinds of diverse activities that attendees can sign up for, often
 attendees participate in an itinerary of several activities. Some examples include:
 • Building a bridge from paper
