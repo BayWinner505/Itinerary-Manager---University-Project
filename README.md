@@ -2,12 +2,17 @@
 ----------------------------------------
 Scenario
 ------------------------------------------------------------------------------
+```
 Exciting Activities Ltd is a company that specialises in organising interesting
 activities for individual and corporate clients. They want a system to manage these
 activities and the attendees more effectively, in particular for calculating the cost.
 You are required to design and build a prototype Java application for their activity
 planner.
-
+```
+-----------------------------------------------------------------------------------
+Activities
+----------------------------------------------------------------------------------
+```
 There are various kinds of diverse activities that attendees can sign up for, often
 attendees participate in an itinerary of several activities. Some examples include:
 
@@ -17,12 +22,16 @@ attendees participate in an itinerary of several activities. Some examples inclu
 • etc.
 Each activity has as a minimum the following information:
 • Base-cost (i.e. the cost before any discount is applied)
-Object-Oriented Programming CIS1068-N 4 of 24
 • Title,
 • General description of the activity
 • Location
 • Date/time
 • Expected duration
+```
+------------------------------------------------------------------------------------
+Pricing
+------------------------------------------------------------------------------------
+```
 Exciting Activities Ltd has a pricing scheme offering discounts based upon the number
 attendees and number of activities taken – see the table below.
 Activity Itinerary Cost Table
