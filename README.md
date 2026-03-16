@@ -10,6 +10,7 @@ planner.
 
 There are various kinds of diverse activities that attendees can sign up for, often
 attendees participate in an itinerary of several activities. Some examples include:
+
 • Building a bridge from paper
 • SAS-style assault courses
 • Cookery classes
