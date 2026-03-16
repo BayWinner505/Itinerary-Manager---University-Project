@@ -1,6 +1,6 @@
 # Itinerary-Manager---University-Project
 ----------------------------------------
-##Scenario
+Scenario
 ------------------------------------------------------------------------------
 ```
 Exciting Activities Ltd is a company that specialises in organising interesting
@@ -9,9 +9,8 @@ activities and the attendees more effectively, in particular for calculating the
 You are required to design and build a prototype Java application for their activity
 planner.
 ```
-
-##Activities
-
+-------------------------------------------------------------------------------
+Activities
 
 ```
 There are various kinds of diverse activities that attendees can sign up for, often
